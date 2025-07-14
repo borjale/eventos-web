@@ -1,12 +1,62 @@
 [
-    {
-        "titulo": "Nombre del evento 1",
-        "fecha": "2023-12-15",
-        "fuente": "https://www.teatroscanal.com"
-    },
-    {
-        "titulo": "Nombre del evento 2",
-        "fecha": "2023-12-20",
-        "fuente": "https://www.teatroscanal.com"
-    }
+  {
+    "titulo": "ABONOS TEATROS DEL CANAL",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "PROGRAMACIÓN 2025 – 2026",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Paula Comitre, Florencia Oz y Carmen Angulo en compañía",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Ramón María del Valle-Inclán",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Iker Rodríguez",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Manuela Nogales Danza / Compañía Fernando Romero",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "El Orgullo de quererte",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Lucía Campillo",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Calderón de la Barca",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Manuela Barrero dlcAos",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "XVI Festival de Ensembles",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  },
+  {
+    "titulo": "Adi Schwarz Dance Project",
+    "fecha": null,
+    "fuente": "https://www.teatroscanal.com"
+  }
 ]
