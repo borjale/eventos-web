@@ -9,7 +9,7 @@ response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
 soup = BeautifulSoup(response.text, 'html.parser')
 
 eventos = []
-for evento in soup.find_all('div', class_='evento'):  # Ajusta este selector
+for evento in soup.find_all('div', class_='tribe-events-event'):  # Ajusta este selector
     titulo = evento.find('h3').text.strip()
     fecha = evento.find('time')['datetime']
     eventos.append({
