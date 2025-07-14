@@ -8,12 +8,16 @@
       .hidden { display: none !important; }
     </style>
 </head>
-<body>
+<body class="hidden">
     <div class="container mt-5">
         <h1 class="mb-4">🎭 Eventos Disponibles</h1>
         <div id="eventos" class="row"></div>
     </div>
-
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        document.body.classList.remove('hidden');
+      });
+    </script>
     <script src="app.js"></script>
 </body>
 </html>
