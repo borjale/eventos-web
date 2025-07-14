@@ -10,7 +10,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 eventos = []
 for evento in soup.find_all('div', class_='tribe-events-event'):  # Ajusta este selector
-    titulo = evento.find('h3').text.strip()
+    titulo = evento.find('h2').text.strip()
     fecha = evento.find('time')['datetime']
     eventos.append({
         'titulo': titulo,
