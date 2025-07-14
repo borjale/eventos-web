@@ -1,0 +1,12 @@
+[
+    {
+        "titulo": "Nombre del evento 1",
+        "fecha": "2023-12-15",
+        "fuente": "https://www.teatroscanal.com"
+    },
+    {
+        "titulo": "Nombre del evento 2",
+        "fecha": "2023-12-20",
+        "fuente": "https://www.teatroscanal.com"
+    }
+]
